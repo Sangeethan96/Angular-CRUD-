@@ -1,0 +1,36 @@
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\bin\Debug\net7.0\DataLibrary.deps.json
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\bin\Debug\net7.0\DataLibrary.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\bin\Debug\net7.0\DataLibrary.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.csproj.AssemblyReference.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.AssemblyInfoInputs.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.AssemblyInfo.cs
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.csproj.CoreCompileInputs.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\refint\DataLibrary.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\ref\DataLibrary.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\bin\Debug\net7.0\DataLibrary.deps.json
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\bin\Debug\net7.0\DataLibrary.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\bin\Debug\net7.0\DataLibrary.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.csproj.AssemblyReference.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.AssemblyInfoInputs.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.AssemblyInfo.cs
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.csproj.CoreCompileInputs.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\refint\DataLibrary.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataLibrary\obj\Debug\net7.0\ref\DataLibrary.dll
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\bin\Debug\net7.0\DataLibrary.deps.json
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\bin\Debug\net7.0\DataLibrary.dll
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\bin\Debug\net7.0\DataLibrary.pdb
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.csproj.AssemblyReference.cache
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.AssemblyInfoInputs.cache
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.AssemblyInfo.cs
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.csproj.CoreCompileInputs.cache
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.dll
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\obj\Debug\net7.0\refint\DataLibrary.dll
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\obj\Debug\net7.0\DataLibrary.pdb
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataLibrary\obj\Debug\net7.0\ref\DataLibrary.dll

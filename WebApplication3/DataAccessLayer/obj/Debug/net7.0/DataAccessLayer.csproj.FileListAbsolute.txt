@@ -1,0 +1,57 @@
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataLibrary.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataLibrary.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataLibrary.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataLibrary.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+E:\Mora\3rd Year\Intern\Intern Practise\vs\reactapp\WebApplication3 2 last\WebApplication3 2\WebApplication3\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataLibrary.dll
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\bin\Debug\net7.0\DataLibrary.pdb
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+E:\Mora\4th Year\New folder\Angular\Angular CRUD\WebApplication3\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
